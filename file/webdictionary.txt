@@ -1,0 +1,6 @@
+<?php
+"this is a open dictionary for all";
+"bla bla bla bla bla bla";
+"Good bye";
+
+?>
